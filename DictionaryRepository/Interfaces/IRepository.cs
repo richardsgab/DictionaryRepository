@@ -12,4 +12,5 @@ namespace DictionaryRepository.Interfaces
         Product SelectSingle(int id);
         bool Find(int id);
     }
+    //hola
 }
